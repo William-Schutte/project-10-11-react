@@ -17,13 +17,12 @@ animations.
 Internally, the site is designed under BEM methodology.
 
 ### Technologies
-React
-NPM
-JS/JSX/HTML/CSS
-Git
-GitHub
-Visual Studio Code
-Figma
+* React
+* NPM
+* JS/JSX/HTML/CSS
+* Git/GitHub
+* Visual Studio Code
+* Figma
 
 -----
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
